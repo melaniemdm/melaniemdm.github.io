@@ -2,6 +2,6 @@
 
 ## Projet Reservia
 
-Intégration de la maquette responsive Reservia en HTML et CSS.
+Intégration de la maquette Reservia en HTML et CSS.
 
 * [Reservia](https://melaniemdm.github.io/Projet_2_Reservia/Reservia.html)
