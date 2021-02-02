@@ -10,11 +10,11 @@ Intégration de la maquette Reservia en HTML et CSS.
 
 ### Objectifs
 
-Réalisation de la maquette Reservia avec Visual Studio Code et le plugin Prettier.  
+Réalisation de la maquette Reservia avec Visual Studio Code et le plugin Prettier pour formater le code.  
 Intégration des icônes Font Awesome.  
 Utilisation Flexbox et CSS Grid.  
 Le site est compatible avec les dernières versions de Chrome et Firefox.  
-Utilisation du pluging git graph.  
+Utilisation du plugin git graph.  
 Aucune erreur ni alerte au validateur W3C HTML et CSS.  
 
 ### Contraintes techniques
