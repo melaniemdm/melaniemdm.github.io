@@ -1,6 +1,10 @@
 # Bienvenue sur mon portfolio
 
-## Projet Reservia
+## **Projet Reservia**
+
+![Image](reservia.jpg)
+
+### Presentation du projet Reservia
 
 Réalisation de la maquette Reservia avec Visual Studio Code et differents plugins.  
 Intégration des icônes Font Awesome.  
@@ -13,8 +17,10 @@ Aucune erreur ni alerte au validateur W3C HTML et CSS.
 
 * [Reservia](https://melaniemdm.github.io/Projet_2_Reservia/Reservia.html)
 
-#### Projet OhMyFood
+---
+
+## **Projet OhMyFood**
 
 Construction du site mobile OhMyFood
 
-##### Lien
+### Lien du projet OhMyFood
