@@ -2,7 +2,7 @@
 
 ## **Projet Reservia**
 
-![Image](./reservia.jpg)
+![Image](reservia.jpg)
 
 ### Presentation du projet Reservia
 
