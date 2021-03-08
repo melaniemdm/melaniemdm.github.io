@@ -22,6 +22,10 @@ Aucune erreur ni alerte au validateur W3C HTML et CSS.
 
 ## **Projet OhMyFood**
 
+![Maquette ohmyfood](./capture_omf_readme.png)
+
+### Presentation du projet OhMyFood
+
 L'objectif est le devellopement en mobile-first qui repertorie les menus de plusieurs retaurants gastronomiques.
 Utilisation de vs-code et du plugin Sass.
 Intégration des nimations demandés dans le Brief.
