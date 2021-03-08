@@ -22,7 +22,10 @@ Aucune erreur ni alerte au validateur W3C HTML et CSS.
 
 ## **Projet OhMyFood**
 
-Construction du site mobile OhMyFood
+L'objectif est le devellopement en mobile-first qui repertorie les menus de plusieurs retaurants gastronomiques.
+Utilisation de vs-code et du plugin Sass.
+Intégration des nimations demandés dans le Brief.
+Aucune erreur ni alerte au validateur W3C HTML et CSS.
 
 ### Lien du projet OhMyFood
 
