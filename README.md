@@ -33,5 +33,5 @@ Aucune erreur ni alerte au validateur W3C HTML et CSS.
 
 ### Lien du projet OhMyFood
 
-* [OhMyFood](https://melaniemdm.github.io/#projet-ohmyfood)
+* [OhMyFood](https://melaniemdm.github.io/Projet_3_ohmyfood/)
   
