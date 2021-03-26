@@ -2,7 +2,7 @@
 
 ## **Introduction**
 
-Ce site est le portfolio de mes réalisations dans de cadre de ma reconvertion professionnelle Développeur Front-End.
+Ce site est le portfolio de mes réalisations dans de cadre de ma reconversion professionnelle Développeur Front-End.
 
 ![Image](./presentation.png)
 
