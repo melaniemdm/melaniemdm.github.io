@@ -44,7 +44,7 @@ Aucune erreur ni alerte au validateur W3C HTML et CSS.
 ---
 ---
 
- ## **Projet GameOn** ## 
+## **Projet GameOn**
 
 ![Maquette ohmyfood](./capture_GameOn_readme.png)
 
