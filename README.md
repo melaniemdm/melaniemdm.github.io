@@ -54,4 +54,4 @@ En cours de réalisation
 
 ### Lien du projet GameOn
 
-* [GameOne](https://melaniemdm.github.io/GameOn-website-FR/)
+* [GameOne](https://melaniemdm.github.io/GameOn-website-FR/starterOnly/)
