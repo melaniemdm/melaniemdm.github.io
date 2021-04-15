@@ -50,8 +50,13 @@ Aucune erreur ni alerte au validateur W3C HTML et CSS.
 
 ### Presentation du projet GameOn
 
-En cours de réalisation
+Le travail consiste à ajouter le code JavaScript manquant pour que le formulaire soit pleinement fonctionnel.  
+Corriger les issues ci dessous:  
+**TODO_1** : fermer la modale  
+**TODO_2**: Implémenter entrées du formulaire  
+**TODO_3**: Ajouter validation ou messages d'erreur  
+**TODO_4**: Ajouter confirmation quand envoie réussi  
 
 ### Lien du projet GameOn
 
-* [GameOne](https://melaniemdm.github.io/GameOn-website-FR/starterOnly/)
+* [GameOn](https://melaniemdm.github.io/GameOn-website-FR/starterOnly/)
