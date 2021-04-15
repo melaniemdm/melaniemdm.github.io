@@ -46,7 +46,7 @@ Aucune erreur ni alerte au validateur W3C HTML et CSS.
 
 ## **Projet GameOn**
 
-![Maquette ohmyfood](./capture_GameOn_readme.png)
+![Maquette GameOne](./capture_GameOn_readme.png)
 
 ### Presentation du projet GameOn
 
