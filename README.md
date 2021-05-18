@@ -60,3 +60,17 @@ Corriger les issues ci dessous:
 ### Lien du projet GameOn
 
 * [GameOn](https://melaniemdm.github.io/GameOn-website-FR/starterOnly/)
+
+---
+---
+
+## **Projet FishEye**
+
+Projet en cours de réalisation...
+
+### Presentation du projet FishEye
+
+FishEye est un site web qui permet aux photographes indépendants de présenter leurs meilleurs travaux.
+Construction d'un prototype fonctionnel du nouveau site web.
+
+### Lien du projet  FishEye
