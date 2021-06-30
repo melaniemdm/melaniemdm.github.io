@@ -66,11 +66,13 @@ Corriger les issues ci dessous:
 
 ## **Projet FishEye**
 
-Projet en cours de réalisation...
+![Maquette Fisheye](./capture_Fisheye.png)
 
 ### Presentation du projet FishEye
 
-FishEye est un site web qui permet aux photographes indépendants de présenter leurs meilleurs travaux.
-Construction d'un prototype fonctionnel du nouveau site web.
+Construction d'un prototype fonctionnel d'un nouveau site web pour les photographes.  
+FishEye est un site web qui permet aux photographes indépendants de présenter leurs meilleurs travaux (images et videos).
 
 ### Lien du projet  FishEye
+
+* [Fisheyes](https://melaniemdm.github.io/fishEye/)
