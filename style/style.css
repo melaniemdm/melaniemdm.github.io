@@ -1,2 +1,25 @@
+#logoMelMDM {
+  width: 100px;
+}
 
-/*# sourceMappingURL=style.css.map *//*# sourceMappingURL=style.css.map */
+#reservia img {
+  height: 300px;
+}
+
+#omf img {
+  height: 270px;
+}
+
+#fishEye img {
+  height: 300px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+#animalsLove img {
+  height: 300px;
+}
+
+#fishEye, #cabco, #animalsLove {
+  margin-top: 30px;
+}/*# sourceMappingURL=style.css.map */

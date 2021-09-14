@@ -76,3 +76,30 @@ FishEye est un site web qui permet aux photographes indépendants de présenter 
 ### Lien du projet  FishEye
 
 * [Fisheyes](https://melaniemdm.github.io/fisheye/)
+
+## **Projet Cab&co**
+
+![Maquette Cab](./photos/capture_cab.png)
+
+### Presentation du site Cab&co
+
+Construction d'un prototype d'un nouveau site web pour des experts comptables.
+Creation du logo.
+Format blog
+
+### Lien du projet Cab&co
+
+* [Cab](https://melaniemdm.github.io/Cab_And_co/)
+
+## **Projet Animals love**
+
+![Maquette Animals](./photos/capture_animalsLove.png)
+
+### Presentation du site Animals Love
+
+Construction d'un prototype d'un nouveau site web l'adoption d'animaux.
+Création d'affiche pour des evenements.
+
+### Lien du projet Animals Love
+
+* [Animals](https://melaniemdm.github.io/animals-love/)
