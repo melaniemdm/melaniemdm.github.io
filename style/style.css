@@ -1,4 +1,4 @@
-#logoMelMDM {
+#logoMelMDM, #footerlogoMelMDM {
   width: 100px;
 }
 
@@ -22,4 +22,12 @@
 
 #fishEye, #cabco, #animalsLove {
   margin-top: 30px;
+}
+
+#footerlogoMelMDM {
+  margin-left: 183px;
+}
+
+#icons {
+  display: flex;
 }/*# sourceMappingURL=style.css.map */

@@ -1,9 +1,8 @@
-#logoMelMDM{
+#logoMelMDM, #footerlogoMelMDM{
     width: 100px;
-  
-}
+  }
 
-
+//placement des img
 // reservia
 #reservia img{
         height: 300px;
@@ -24,4 +23,13 @@
 
 #fishEye, #cabco, #animalsLove{
     margin-top: 30px;
+}
+
+//footer
+#footerlogoMelMDM{
+    margin-left: 183px;
+}
+
+#icons{
+    display: flex;
 }
