@@ -82,7 +82,7 @@ FishEye est un site web qui permet aux photographes indépendants de présenter 
 
 ## **Projet Cab&co**
 
-![Maquette Cab](./photos/capture_cab.png)
+![Maquette Cab](./photos/Capture_cab.png)
 
 ### Presentation du site Cab&co
 
