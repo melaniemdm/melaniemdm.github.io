@@ -99,7 +99,7 @@ Format blog
 
 ## **Projet Animals love**
 
-![Maquette Animals](./photos/capture_animalsLove.png)
+![Maquette Animals](./photos/Capture_animalsLove.png)
 
 ### Presentation du site Animals Love
 
