@@ -8,7 +8,7 @@ Ce site est le portfolio de mes réalisations dans de cadre de ma reconversion p
 
 ## **Projet Reservia**
 
-![Image](./reservia.jpg)
+![Image](./photos/reservia.jpg)
 
 ### Presentation du projet Reservia
 
@@ -28,7 +28,7 @@ Aucune erreur ni alerte au validateur W3C HTML et CSS.
 
 ## **Projet OhMyFood**
 
-![Maquette ohmyfood](./capture_omf_readme.png)
+![Maquette ohmyfood](./photos/capture_omf_readme.png)
 
 ### Presentation du projet OhMyFood
 
@@ -46,7 +46,7 @@ Aucune erreur ni alerte au validateur W3C HTML et CSS.
 
 ## **Projet GameOn**
 
-![Maquette GameOne](./capture_GameOn_readme.png)
+![Maquette GameOne](.photos/../photos/capture_GameOn_readme.png)
 
 ### Presentation du projet GameOn
 
@@ -66,7 +66,7 @@ Corriger les issues ci dessous:
 
 ## **Projet FishEye**
 
-![Maquette Fisheye](./capture_Fisheye.png)
+![Maquette Fisheye](./photos/capture_Fisheye.png)
 
 ### Presentation du projet FishEye
 
