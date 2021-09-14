@@ -4,7 +4,7 @@
 
 Ce site est le portfolio de mes réalisations dans de cadre de ma reconversion professionnelle Développeur Front-End.
 
-![Image](./presentation.jpg)
+![Image](./photos/presentation.png)
 
 ## **Projet Reservia**
 
@@ -46,7 +46,7 @@ Aucune erreur ni alerte au validateur W3C HTML et CSS.
 
 ## **Projet GameOn**
 
-![Maquette GameOne](.photos/../photos/capture_GameOn_readme.png)
+![Maquette GameOne](./photos/capture_GameOn_readme.png)
 
 ### Presentation du projet GameOn
 
@@ -76,6 +76,9 @@ FishEye est un site web qui permet aux photographes indépendants de présenter 
 ### Lien du projet  FishEye
 
 * [Fisheyes](https://melaniemdm.github.io/fisheye/)
+  
+---
+---
 
 ## **Projet Cab&co**
 
@@ -91,6 +94,9 @@ Format blog
 
 * [Cab](https://melaniemdm.github.io/Cab_And_co/)
 
+---
+---
+
 ## **Projet Animals love**
 
 ![Maquette Animals](./photos/capture_animalsLove.png)
@@ -103,3 +109,6 @@ Création d'affiche pour des evenements.
 ### Lien du projet Animals Love
 
 * [Animals](https://melaniemdm.github.io/animals-love/)
+
+---
+---
