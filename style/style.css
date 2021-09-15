@@ -2,22 +2,10 @@
   width: 100px;
 }
 
-#reservia img {
-  height: 300px;
-}
-
-#omf img {
-  height: 270px;
-}
-
-#fishEye img {
-  height: 300px;
-  -o-object-fit: cover;
-     object-fit: cover;
-}
-
-#animalsLove img {
-  height: 300px;
+#animalsLove img, #fishEye img, #cabco img, #gameOn img, #reservia img, #omf img {
+  -o-object-fit: contain;
+     object-fit: contain;
+  overflow: hidden;
 }
 
 #fishEye, #cabco, #animalsLove {
@@ -30,4 +18,22 @@
 
 #icons {
   display: flex;
+}
+
+#portfolio {
+  margin-top: -90px;
+  margin-bottom: 90px;
+}
+
+/*--------------------------------------------logo responsive version mobile------------------*/
+@media all and (max-width: 600px) {
+  #footerlogoMelMDM {
+    width: 50px;
+    margin-left: 0;
+  }
+
+  #portfolio {
+    margin-top: -1px;
+    margin-bottom: 50px;
+  }
 }/*# sourceMappingURL=style.css.map */

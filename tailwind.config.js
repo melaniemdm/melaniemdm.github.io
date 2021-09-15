@@ -5,7 +5,10 @@ module.exports = {
     extend: {},
   },
   variants: {
-    extend: {},
+    scale:['hover', 'group-hover'],
+    extend: {
+      padding: ['hover']
+    },
   },
   plugins: [],
 }
