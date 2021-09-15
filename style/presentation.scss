@@ -1,0 +1,35 @@
+@import "./style.scss";
+
+#bienvenue, #titreQui, #titrePourquoi, #titrePoCompetence{
+    margin-bottom: 30px;
+}
+#photoMelanie img{
+    width: 400px;
+}
+p{
+   margin-bottom: 15px;
+}
+
+#titrePourquoi{
+    margin-top: 100px;
+}
+#photoCompetence{
+    
+& img{
+    object-fit: contain;
+    }}
+    footer{
+        margin-right: 174px;
+    }
+ section{
+     display: flex;
+     flex-direction: column;
+    height: 100%;
+ }   
+
+ // responsive
+ @media all and (max-width: 600px){
+    footer{
+        margin-right: 0;
+    }
+}

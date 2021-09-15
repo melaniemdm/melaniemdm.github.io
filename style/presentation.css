@@ -36,12 +36,44 @@ footer {
     margin-left: 0;
   }
 
-  footer {
-    margin-right: 0;
-  }
-
   #portfolio {
     margin-top: -1px;
     margin-bottom: 50px;
   }
-}/*# sourceMappingURL=style.css.map */
+}
+#bienvenue, #titreQui, #titrePourquoi, #titrePoCompetence {
+  margin-bottom: 30px;
+}
+
+#photoMelanie img {
+  width: 400px;
+}
+
+p {
+  margin-bottom: 15px;
+}
+
+#titrePourquoi {
+  margin-top: 100px;
+}
+
+#photoCompetence img {
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+
+footer {
+  margin-right: 174px;
+}
+
+section {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+@media all and (max-width: 600px) {
+  footer {
+    margin-right: 0;
+  }
+}/*# sourceMappingURL=presentation.css.map */
