@@ -112,3 +112,18 @@ Création d'affiche pour des evenements.
 
 ---
 ---
+
+## **Projet Les petits plats**
+
+![Petits plats](./photos/CapturePetitsPlats.png)
+
+### Presentation du site Les petits plats
+
+Implémentation de fonctionnalités de recherche pour un site de recettes de cuisine.
+
+### Lien du site Les petits plats
+
+* [Petits plats](https://melaniemdm.github.io/les_Petits_Plats/)
+
+---
+---
