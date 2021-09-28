@@ -1,6 +1,14 @@
 #logoMelMDM, #footerlogoMelMDM{
     width: 100px;
   }
+.orchidee img{
+   // background-image: url("../photos/orchidee.jpg");
+ //z-index: -1;
+ width: 100%;
+ object-fit: cover;
+ opacity: 0.20;
+ position:fixed ;
+}
 
 #animalsLove img, #fishEye img, #cabco img, #gameOn img, #reservia img, #omf img{
     object-fit: contain;
