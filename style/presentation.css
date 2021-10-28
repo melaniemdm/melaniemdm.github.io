@@ -2,6 +2,14 @@
   width: 100px;
 }
 
+.orchidee img {
+  width: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+  opacity: 0.2;
+  position: fixed;
+}
+
 #animalsLove img, #fishEye img, #cabco img, #gameOn img, #reservia img, #omf img {
   -o-object-fit: contain;
      object-fit: contain;
