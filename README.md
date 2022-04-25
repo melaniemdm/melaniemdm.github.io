@@ -127,3 +127,18 @@ Implémentation de fonctionnalités de recherche pour un site de recettes de cui
 
 ---
 ---
+
+## **Projet Kasa**
+
+![Kasa](./photos/kasa.jpg)
+
+### Presentation du site Kasa
+
+Implémentation d'un site de reservation de logement en React
+
+### Lien du site Kasa
+
+* [Kasa](https://melaniemdm.github.io/kasa/)
+
+---
+---
